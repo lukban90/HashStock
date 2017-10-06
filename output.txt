@@ -1,0 +1,84 @@
+DUPLICATE CODE: WL248931. NOT ADDED TO INVENTORY
+0 WL237757: 'Solid Crewneck River Driver's  ' $31.50 Shirt 16 (10 1 10 1 0 10 0 5 6 2 9 6) next:3712
+1 WL265851: 'Button Mock Blue Jean Sweater  ' $39.50 Sweater 8 (3 6 3 3 0 0 7 10 1 0 1 5) next:2688
+2 WL228061: 'Scotch Plaid Flannel Shirt     ' $29.50 Shirt 15 (10 7 4 9 7 1 10 1 6 5 5 4) next:0
+3 WL259132: 'Shawl Collar Sheatland         ' $54.50 Sweater 2 (6 3 3 3 3 7 7 6 8 0 9 8) next:2304
+4 WL264593: 'Moccasin Wicked Good Slippers  ' $49.95 Shoes 0 (0 0 0 0 0 0 0 0 0 0 0 0) next:2560
+5 WL248929: 'Solid Chambray Sport Shirt     ' $29.50 Shirt 11 (2 4 10 2 8 4 1 9 2 2 1 1) next:2048
+6 WL244926: 'Heavyweight Jacket             ' $54.95 Jacket 3 (0 0 0 1 1 0 0 2 0 1 3 2) next:2944
+7 WL265844: 'Crewneck Blue Jean Sweater     ' $36.50 Sweater 4 (2 1 10 0 4 10 3 8 6 3 8 4) next:1920
+8 WL187923: 'Chamois Cloth Shirt            ' $34.50 Shirt 8 (7 3 0 6 6 3 10 0 6 0 3 9) next:2176
+9 WL245345: 'Crewneck Sheatland             ' $39.50 Sweater 4 (6 8 2 7 6 4 3 3 8 3 0 4) next:2816
+10 WL188705: 'Moc Boot Wicked Good Slippers  ' $49.95 Shoes 10 (7 0 4 1 5 5 2 8 7 6 10 9) next:1664
+11 WL169492: 'Slip-on Wicked Good Slippers   ' $49.95 Shoes 14 (6 3 0 8 8 0 7 1 8 2 4 10) next:4096
+12 WL162343: 'Fleece-Lined Double L Jeans    ' $49.95 Pants 3 (8 1 0 1 0 7 1 5 2 10 2 6) next:0
+13 WL166891: 'Solid Henley River Driver's    ' $36.50 Shirt 16 (0 8 8 1 4 7 9 0 0 0 0 0) next:1792
+14 WL265847: 'Zip-Cardigan Blue Jean Sweater ' $41.50 Sweater 0 (7 3 2 7 9 10 5 5 3 7 2 8) next:0
+15 WL248931: 'Striped Chambray Sport Shirt   ' $34.50 Shirt 2 (0 10 10 7 5 4 4 1 5 7 10 2) next:3456
+16 WL212490: 'Chino Belt                     ' $29.50 Accessory 5 (6 5 1 8 7 0 5 3 0 1 0 2) next:3328
+17 WL264610: 'V-Neck Sheatland               ' $39.50 Sweater 4 (9 1 0 9 8 3 6 8 0 10 5 1) next:0
+18 WL220626: 'Unlined Double L Jeans         ' $29.95 Pants 16 (7 10 8 6 3 6 7 3 1 7 1 9) next:2432
+19 WL100220: 'Flannel-Lined Double L Jeans   ' $49.95 Pants 5 (5 3 4 5 8 3 2 10 4 2 6 10) next:0
+20 WL245886: 'Hurricane Cloth Shirt          ' $59.95 Shirt 10 (1 3 10 8 6 7 0 8 2 4 0 0) next:4352
+21 WL242373: 'Solid Double L Polo            ' $24.95 Shirt 0 (0 0 0 0 0 0 0 0 0 0 0 0) next:3200
+22 WL240717: 'Striped Double L Polo          ' $27.95 Shirt 0 (4 8 3 4 0 0 0 0 0 0 0 0) next:3072
+23 WL209410: 'Solid Oxford Cloth Shirt       ' $29.50 Shirt 0 (5 1 5 1 4 6 7 0 9 1 9 2) next:3584
+24 WL237870: 'Tattersall Oxford Cloth Shirt  ' $34.50 Shirt 5 (5 6 1 7 10 4 4 0 7 4 3 6) next:3840
+25 WL212330: 'Plain Front Double L Chinos    ' $29.95 Pants 6 (6 3 1 5 3 1 6 3 1 6 9 1) next:0
+26 WL212334: 'Pleated Double L Chinos        ' $29.95 Pants 8 (4 5 6 8 0 8 10 3 10 7 2 9) next:4480
+27 WL265298: 'Stadium Parka                  ' $79.0 Jacket 3 (5 9 9 1 4 0 7 9 9 0 9 6) next:3968
+28 WL252063: 'Ragg Wool Hat                  ' $19.50 Accessory 20 (0 0 4 9 2 9 10 9 4 8 6 4) next:4224
+29 WL252889: 'Ragg Wool Gloves               ' $24.50 Accessory 15 (5 10 7 0 7 10 5 1 10 1 2 5) next:0
+30 WL258982: 'Rugged Ridge Parka             ' $169.0 Jacket 4 (9 4 3 4 9 1 1 10 2 7 4 0) next:0
+31 WL258980: 'Baxter State Parka             ' $219.0 Jacket 3 (8 1 8 6 8 7 1 10 9 8 0 3) next:0
+32 WL265276: 'Storm Chaser Jacket            ' $89.0 Jacket 8 (1 3 7 9 7 10 1 6 10 8 2 2) next:4608
+33 WL245797: 'Goose Down Jacket              ' $69.0 Jacket 4 (5 1 4 10 5 2 10 3 10 10 10 1) next:0
+34 WL137102: 'Blucher Handsewn Moccasin      ' $69.0 Shoes 6 (5 9 4 0 4 8 3 10 1 3 8 2) next:0
+35 WL260798: 'Trailblazer Headlamp           ' $19.95 Accessory 10 (3 1 0 9 0 1 1 7 3 9 10 10) next:0
+36 WL259881: 'Quick Check Weather Station    ' $19.95 Accessory 8 (8 0 4 0 2 3 3 10 8 4 10 0) next:0
+lukbanc@cf164-04:~/CSCI352/Assignment3_3$ clear
+
+lukbanc@cf164-04:~/CSCI352/Assignment3_3$ ./runtransactions transactions.txt hashed.txt 
+ITEM NOT FOUND: WL246889
+DUPLICATE CODE: WL212490. NOT ADDED TO INVENTORY
+ITEM NOT FOUND: WL036147
+CANNOT DELETE WL036147. NOT IN INVENTORY
+0 WL237757: 'Solid Crewneck River Driver's  ' $31.50 Shirt 16 (0 10 1 10 1 0 10 0 5 6 2 9) next:3712
+1 WL265851: 'Button Mock Blue Jean Sweater  ' $39.50 Sweater 6 (2 3 6 3 3 0 0 7 10 1 0 1) next:2688
+2 WL228061: 'Scotch Plaid Flannel Shirt     ' $29.50 Shirt 11 (4 10 7 4 9 7 1 10 1 6 5 5) next:0
+3 WL259132: 'Shawl Collar Sheatland         ' $54.50 Sweater 2 (0 6 3 3 3 3 7 7 6 8 0 9) next:2304
+4 WL264593: 'Moccasin Wicked Good Slippers  ' $49.95 Shoes -2 (2 0 0 0 0 0 0 0 0 0 0 0) next:2560
+5 WL248929: 'Solid Chambray Sport Shirt     ' $35.50 Shirt 11 (0 2 4 10 2 8 4 1 9 2 2 1) next:2048
+6 WL244926: 'Heavyweight Jacket             ' $54.95 Jacket 3 (0 0 0 0 1 1 0 0 2 0 1 3) next:2944
+7 WL265844: 'Crewneck Blue Jean Sweater     ' $36.50 Sweater 4 (0 2 1 10 0 4 10 3 8 6 3 8) next:1920
+8 WL187923: 'Chamois Cloth Shirt            ' $34.50 Shirt 6 (2 7 3 0 6 6 3 10 0 6 0 3) next:2176
+9 WL245345: 'Crewneck Sheatland             ' $39.50 Sweater 4 (0 6 8 2 7 6 4 3 3 8 3 0) next:2816
+10 WL188705: 'Moc Boot Wicked Good Slippers  ' $49.95 Shoes 10 (0 7 0 4 1 5 5 2 8 7 6 10) next:1664
+11 WL169492: 'Slip-on Wicked Good Slippers   ' $49.95 Shoes 11 (3 6 3 0 8 8 0 7 1 8 2 4) next:4096
+12 WL162343: 'Fleece-Lined Double L Jeans    ' $45.50 Pants 3 (0 8 1 0 1 0 7 1 5 2 10 2) next:0
+13 WL166891: 'Solid Henley River Driver's    ' $36.50 Shirt 16 (0 0 8 8 1 4 7 9 0 0 0 0) next:1792
+14 WL265847: 'Zip-Cardigan Blue Jean Sweater ' $41.50 Sweater 6 (0 7 3 2 7 9 10 5 5 3 7 2) next:0
+15 WL248931: 'Striped Chambray Sport Shirt   ' $34.50 Shirt 2 (0 0 10 10 7 5 4 4 1 5 7 10) next:3456
+16 WL212490: 'Chino Belt                     ' $29.50 Accessory 5 (0 6 5 1 8 7 0 5 3 0 1 0) next:3328
+17 WL264610: 'V-Neck Sheatland               ' $39.50 Sweater 3 (1 9 1 0 9 8 3 6 8 0 10 5) next:0
+18 WL220626: 'Unlined Double L Jeans         ' $29.95 Pants 14 (2 7 10 8 6 3 6 7 3 1 7 1) next:2432
+19 WL100220: 'Flannel-Lined Double L Jeans   ' $49.95 Pants 5 (0 5 3 4 5 8 3 2 10 4 2 6) next:0
+20 WL245886: 'Hurricane Cloth Shirt          ' $59.95 Shirt 6 (4 1 3 10 8 6 7 0 8 2 4 0) next:4352
+21 WL242373: 'Solid Double L Polo            ' $24.95 Shirt 9 (1 0 0 0 0 0 0 0 0 0 0 0) next:3200
+22 : 'PRODUCT_DELETE' $0.0 Jacket 0 (0 0 0 0 0 0 0 0 0 0 0 0) next:3072
+23 WL209410: 'Solid Oxford Cloth Shirt       ' $29.50 Shirt 0 (0 5 1 5 1 4 6 7 0 9 1 9) next:3584
+24 WL237870: 'Tattersall Oxford Cloth Shirt  ' $34.50 Shirt 3 (2 5 6 1 7 10 4 4 0 7 4 3) next:3840
+25 WL212330: 'Plain Front Double L Chinos    ' $29.95 Pants 6 (0 6 3 1 5 3 1 6 3 1 6 9) next:4736
+26 WL212334: 'Pleated Double L Chinos        ' $29.95 Pants 8 (0 4 5 6 8 0 8 10 3 10 7 2) next:4480
+27 WL265298: 'Stadium Parka                  ' $79.0 Jacket 0 (3 5 9 9 1 4 0 7 9 9 0 9) next:3968
+28 WL252063: 'Ragg Wool Hat                  ' $19.50 Accessory 18 (2 0 0 4 9 2 9 10 9 4 8 6) next:4224
+29 : 'PRODUCT_DELETE' $0.0 Jacket 0 (0 0 0 0 0 0 0 0 0 0 0 0) next:0
+30 WL258982: 'Rugged Ridge Parka             ' $169.0 Jacket 4 (0 9 4 3 4 9 1 1 10 2 7 4) next:0
+31 WL258980: 'Baxter State Parka             ' $219.0 Jacket 3 (0 8 1 8 6 8 7 1 10 9 8 0) next:0
+32 WL265276: 'Storm Chaser Jacket            ' $89.0 Jacket 7 (1 1 3 7 9 7 10 1 6 10 8 2) next:4608
+33 WL245797: 'Goose Down Jacket              ' $69.0 Jacket 16 (0 5 1 4 10 5 2 10 3 10 10 10) next:0
+34 WL137102: 'Blucher Handsewn Moccasin      ' $69.0 Shoes 6 (0 5 9 4 0 4 8 3 10 1 3 8) next:0
+35 WL260798: 'Trailblazer Headlamp           ' $19.95 Accessory 8 (2 3 1 0 9 0 1 1 7 3 9 10) next:0
+36 WL259881: 'Quick Check Weather Station    ' $15.99 Accessory 4 (4 8 0 4 0 2 3 3 10 8 4 10) next:0
+37 WL220312: 'New Wave Jacket                ' $55.50 Jacket 0 (0 0 0 0 0 0 0 0 0 0 0 0) next:0
+
